@@ -10,11 +10,11 @@ compileJava {
 }
 
 gretty {
-    httpPort = 3000
+    httpPort = 8080
     host = '0.0.0.0'
     contextPath = '/'
     servletContainer 'tomcat8'
-    httpsPort = 443
+    httpsPort = 3000
     httpsEnabled = true
 }
 
