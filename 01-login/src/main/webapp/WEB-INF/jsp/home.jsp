@@ -11,7 +11,7 @@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
     <link rel="stylesheet" type="text/css" href="/css/home.css" />
     <link rel="stylesheet" type="text/css" href="/css/jquery.growl.css" />
     <script src="https://code.jquery.com/jquery.js"></script>
-    <script src="/js/jquery.growl.js" type="text/javascript"></script>
+    <script src="javascript/jquery.growl.js" type="text/javascript"></script>
   </head>
 
   <body>
